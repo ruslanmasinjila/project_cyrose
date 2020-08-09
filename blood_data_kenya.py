@@ -1,4 +1,6 @@
 import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 ##########################################################################################
 data = pd.read_csv("clean_blood.csv")
@@ -115,33 +117,7 @@ aggregate_supply.to_csv("supply_2015_2019.csv")
 ###########################################################################################
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#print(data.head())
-
-#data=data.groupby(['orgunitlevel4']).sum()
-
-#print(data.head(50))
-
-#print(data.isnull().sum(axis = 1))
-
-
+aggregate_supply.plot(kind= "bar")
+plt.show()
 
 
