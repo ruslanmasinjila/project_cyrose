@@ -1,0 +1,24 @@
+data = pd.read_csv("clean_blood.csv")
+supply_data2016 = pd.DataFrame()
+supply_data2016["2016_rbtc_colle"] = data["2016_rbtc_colle"]
+supply_data2016["2016_donated_blood_units"] = data["2016_donated_blood_units"]
+supply_data2016["2016_blood_other_sources"] = data["2016_blood_other_sources"]
+supply_data2016["2016_no_of_units_requested_from_other_transfusing_hospi"] = data["2016_no_of_units_requested_from_other_transfusing_hospi"]
+supply_data2016["2016__blood_units_received_from_moh_706blood_transfusio"] = data["2016__blood_units_received_from_moh_706blood_transfusio"]
+
+# Get some across the rows
+supply_data2016["supply"] = supply_data2016.sum(axis=1)
+
+
+supply_2016 = pd.DataFrame()
+supply_2016["orgunitlevel4"] = data["orgunitlevel4"]
+supply_2016["supply"] = supply_data2016["supply"]
+
+# Group identical Wards ("orgunitlevel4") and find the total sum for the Ward
+supply_2016=supply_2016.groupby(['orgunitlevel4']).sum()
+
+
+# Remove all rows with zeroes
+supply_2016=supply_2016.loc[(supply_2016!=0).any(axis=1)]
+
+supply_2015
