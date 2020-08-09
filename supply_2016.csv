@@ -8,7 +8,7 @@
 6,Athi River Ward,0.0
 7,Athi River Ward,0.0
 8,Athi River Ward,0.0
-9,Athi River Ward,33.0
+9,Athi River Ward,0.0
 10,Athi River Ward,0.0
 11,Athi River Ward,0.0
 12,Athi River Ward,0.0
@@ -81,7 +81,7 @@
 79,Syokimau/Mulolongo Ward,0.0
 80,Syokimau/Mulolongo Ward,0.0
 81,Syokimau/Mulolongo Ward,0.0
-82,Athi River Ward,1019.0
+82,Athi River Ward,1018.0
 83,Kinanie Ward,0.0
 84,Syokimau/Mulolongo Ward,0.0
 85,Syokimau/Mulolongo Ward,0.0
@@ -117,7 +117,7 @@
 115,Kipevu Ward,0.0
 116,Airport Ward,0.0
 117,Airport Ward,0.0
-118,Port Reitz Ward,59.0
+118,Port Reitz Ward,165.0
 119,Airport Ward,0.0
 120,Airport Ward,0.0
 121,Chaani Ward,0.0
@@ -145,7 +145,7 @@
 143,Port Reitz Ward,0.0
 144,Kipevu Ward,0.0
 145,Changamwe Ward,0.0
-146,Kipevu Ward,7.0
+146,Kipevu Ward,0.0
 147,Changamwe Ward,0.0
 148,Airport Ward,0.0
 149,Airport Ward,0.0
@@ -164,7 +164,7 @@
 162,Airport Ward,0.0
 163,Airport Ward,0.0
 164,Airport Ward,0.0
-165,Airport Ward,181.0
+165,Airport Ward,184.0
 166,Airport Ward,0.0
 167,Airport Ward,0.0
 168,Airport Ward,0.0
@@ -200,7 +200,7 @@
 198,Gatina Ward,0.0
 199,Kileleshwa Ward,0.0
 200,Kilimani Ward,0.0
-201,Kilimani Ward,779.0
+201,Kilimani Ward,1367.0
 202,Kilimani Ward,0.0
 203,Kilimani Ward,0.0
 204,Kilimani Ward,0.0
@@ -234,20 +234,20 @@
 232,Kilimani Ward,0.0
 233,Kabiro Ward,0.0
 234,Kilimani Ward,0.0
-235,Kileleshwa Ward,94.0
+235,Kileleshwa Ward,0.0
 236,Kileleshwa Ward,0.0
 237,Kilimani Ward,0.0
-238,Kileleshwa Ward,275.0
+238,Kileleshwa Ward,0.0
 239,Kilimani Ward,0.0
 240,Kabiro Ward,0.0
 241,Kilimani Ward,0.0
-242,Kawangware Ward,18.0
+242,Kawangware Ward,0.0
 243,Kabiro Ward,0.0
-244,Kilimani Ward,1120.0
+244,Kilimani Ward,24.0
 245,Kilimani Ward,0.0
 246,Kilimani Ward,0.0
 247,Kilimani Ward,0.0
-248,Kilimani Ward,10.0
+248,Kilimani Ward,0.0
 249,Kawangware Ward,0.0
 250,Kilimani Ward,0.0
 251,Kilimani Ward,0.0
@@ -298,7 +298,7 @@
 296,Riruta Ward,0.0
 297,Mutu-ini Ward,0.0
 298,Riruta Ward,0.0
-299,Ngando Ward,4.0
+299,Ngando Ward,0.0
 300,Riruta Ward,0.0
 301,Riruta Ward,0.0
 302,Mutu-ini Ward,0.0
@@ -339,7 +339,7 @@
 337,Komarock Ward,0.0
 338,Komarock Ward,0.0
 339,Kayole North Ward,0.0
-340,Komarock Ward,1369.0
+340,Komarock Ward,1510.0
 341,Kayole South Ward,0.0
 342,Kayole North Ward,0.0
 343,Kayole Central Ward,0.0
@@ -394,9 +394,9 @@
 392,Embakasi Ward,0.0
 393,Embakasi Ward,0.0
 394,Embakasi Ward,0.0
-395,Utawala Ward,204.0
+395,Utawala Ward,0.0
 396,Embakasi Ward,0.0
-397,Utawala Ward,4.0
+397,Utawala Ward,0.0
 398,Embakasi Ward,0.0
 399,Utawala Ward,0.0
 400,Upper Savannah Ward,0.0
@@ -407,7 +407,7 @@
 405,Embakasi Ward,0.0
 406,Lower Savannah Ward,0.0
 407,Embakasi Ward,0.0
-408,Utawala Ward,36.0
+408,Utawala Ward,0.0
 409,Embakasi Ward,0.0
 410,Embakasi Ward,0.0
 411,Embakasi Ward,0.0
@@ -422,7 +422,7 @@
 420,Embakasi Ward,0.0
 421,Embakasi Ward,0.0
 422,Kariobangi North Ward,0.0
-423,Dandora Area Iv Ward,46.0
+423,Dandora Area Iv Ward,0.0
 424,Kariobangi North Ward,0.0
 425,Dandora Area II Ward,0.0
 426,Dandora Area I Ward,0.0
@@ -440,7 +440,7 @@
 438,Kariobangi North Ward,0.0
 439,Kariobangi North Ward,0.0
 440,Kariobangi North Ward,0.0
-441,Dandora Area I Ward,9.0
+441,Dandora Area I Ward,0.0
 442,Dandora Area II Ward,0.0
 443,Dandora Area II Ward,0.0
 444,Dandora Area II Ward,0.0
@@ -593,13 +593,13 @@
 591,Kola Ward,0.0
 592,Eastleigh South Ward,0.0
 593,Eastleigh North Ward,0.0
-594,Eastleigh North Ward,0.0
+594,Eastleigh North Ward,42.0
 595,California Ward,0.0
 596,Eastleigh North Ward,0.0
 597,Eastleigh South Ward,0.0
 598,Eastleigh South Ward,0.0
 599,Eastleigh North Ward,0.0
-600,California Ward,6.0
+600,California Ward,21.0
 601,California Ward,0.0
 602,Pumwani Ward,0.0
 603,Eastleigh South Ward,0.0
@@ -615,13 +615,13 @@
 613,Airbase Ward,0.0
 614,Eastleigh South Ward,0.0
 615,Eastleigh South Ward,0.0
-616,Eastleigh North Ward,0.0
+616,Eastleigh North Ward,5.0
 617,Eastleigh North Ward,0.0
 618,Eastleigh North Ward,0.0
 619,California Ward,0.0
 620,Eastleigh South Ward,0.0
 621,Airbase Ward,0.0
-622,California Ward,0.0
+622,California Ward,4.0
 623,Airbase Ward,0.0
 624,Airbase Ward,0.0
 625,California Ward,0.0
@@ -629,7 +629,7 @@
 627,California Ward,0.0
 628,Eastleigh North Ward,0.0
 629,Pumwani Ward,0.0
-630,Pumwani Ward,0.0
+630,Pumwani Ward,86.0
 631,Airbase Ward,0.0
 632,California Ward,0.0
 633,Pumwani Ward,0.0
@@ -656,7 +656,7 @@
 654,Kangundo West Ward,0.0
 655,Kangundo West Ward,0.0
 656,Kangundo Central Ward,0.0
-657,Kangundo Central Ward,1025.0
+657,Kangundo Central Ward,4954.0
 658,Kangundo West Ward,0.0
 659,Kangundo East Ward,0.0
 660,Kangundo Central Ward,0.0
@@ -688,7 +688,7 @@
 686,Njiru Ward,0.0
 687,Njiru Ward,0.0
 688,Njiru Ward,0.0
-689,Ruai Ward,138.0
+689,Ruai Ward,0.0
 690,Ruai Ward,0.0
 691,Clay City Ward,0.0
 692,Clay City Ward,0.0
@@ -715,7 +715,7 @@
 713,Ruai Ward,0.0
 714,Kasarani Ward,0.0
 715,Kasarani Ward,0.0
-716,Ruai Ward,13.0
+716,Ruai Ward,0.0
 717,Njiru Ward,0.0
 718,Njiru Ward,0.0
 719,Clay City Ward,0.0
@@ -730,7 +730,7 @@
 728,Ruai Ward,0.0
 729,Kasarani Ward,0.0
 730,Ruai Ward,0.0
-731,Clay City Ward,482.0
+731,Clay City Ward,413.0
 732,Clay City Ward,0.0
 733,Njiru Ward,0.0
 734,Mwiki Ward,0.0
@@ -746,7 +746,7 @@
 744,Upper Kaewa/Iveti Ward,0.0
 745,Upper Kaewa/Iveti Ward,0.0
 746,Kathiani Central Ward,0.0
-747,Kathiani Central Ward,225.0
+747,Kathiani Central Ward,131.0
 748,Upper Kaewa/Iveti Ward,0.0
 749,Lower Kaewa/Kaani Ward,0.0
 750,Lower Kaewa/Kaani Ward,0.0
@@ -808,7 +808,7 @@
 806,Woodley/Kenyatta Golf Course Ward,0.0
 807,Woodley/Kenyatta Golf Course Ward,0.0
 808,Woodley/Kenyatta Golf Course Ward,0.0
-809,Woodley/Kenyatta Golf Course Ward,0.0
+809,Woodley/Kenyatta Golf Course Ward,10516.0
 810,Sarang'ombe Ward,0.0
 811,Makina Ward,0.0
 812,Laini Saba Ward,0.0
@@ -824,7 +824,7 @@
 822,Sarang'ombe Ward,0.0
 823,Lindi Ward,0.0
 824,Sarang'ombe Ward,0.0
-825,Woodley/Kenyatta Golf Course Ward,802.0
+825,Woodley/Kenyatta Golf Course Ward,1219.0
 826,Woodley/Kenyatta Golf Course Ward,0.0
 827,Lindi Ward,0.0
 828,Sarang'ombe Ward,0.0
@@ -884,7 +884,7 @@
 882,Mtopanga Ward,0.0
 883,Mjambere Ward,0.0
 884,Mtopanga Ward,0.0
-885,Magogoni Ward,0.0
+885,Magogoni Ward,88.0
 886,Shanzu Ward,0.0
 887,Mtopanga Ward,0.0
 888,Junda Ward,0.0
@@ -902,7 +902,7 @@
 900,Mtopanga Ward,0.0
 901,Mtopanga Ward,11.0
 902,Mwakirunge Ward,0.0
-903,Shanzu Ward,0.0
+903,Shanzu Ward,17.0
 904,Bamburi Ward,0.0
 905,Mtopanga Ward,0.0
 906,Junda Ward,0.0
@@ -933,7 +933,7 @@
 931,Railways Ward,0.0
 932,Market Milimani Ward,0.0
 933,Market Milimani Ward,0.0
-934,Market Milimani Ward,164.0
+934,Market Milimani Ward,473.0
 935,Railways Ward,0.0
 936,Market Milimani Ward,0.0
 937,Railways Ward,0.0
@@ -947,7 +947,7 @@
 945,Kondele Ward,0.0
 946,Kondele Ward,0.0
 947,Nyalenda B Ward,0.0
-948,Nyalenda B Ward,2.0
+948,Nyalenda B Ward,0.0
 949,Shauri Moyo Kaloleni Ward,0.0
 950,Market Milimani Ward,0.0
 951,Nyalenda B Ward,0.0
@@ -955,14 +955,14 @@
 953,Nyalenda B Ward,0.0
 954,Railways Ward,0.0
 955,Nyalenda B Ward,0.0
-956,Market Milimani Ward,30.0
-957,Market Milimani Ward,366.0
-958,Kondele Ward,2723.0
+956,Market Milimani Ward,0.0
+957,Market Milimani Ward,256.0
+958,Kondele Ward,4762.0
 959,Railways Ward,0.0
 960,Kondele Ward,0.0
-961,Market Milimani Ward,1494.0
+961,Market Milimani Ward,1954.0
 962,Market Milimani Ward,0.0
-963,Kondele Ward,0.0
+963,Kondele Ward,1616.0
 964,Kondele Ward,0.0
 965,Shauri Moyo Kaloleni Ward,0.0
 966,Market Milimani Ward,0.0
@@ -975,25 +975,25 @@
 973,Railways Ward,0.0
 974,Market Milimani Ward,0.0
 975,Migosi Ward,0.0
-976,Market Milimani Ward,77.0
+976,Market Milimani Ward,137.0
 977,Railways Ward,0.0
 978,Kondele Ward,0.0
 979,Market Milimani Ward,0.0
-980,Kondele Ward,329.0
+980,Kondele Ward,486.0
 981,Market Milimani Ward,0.0
 982,Nyalenda B Ward,0.0
 983,Kondele Ward,0.0
 984,Railways Ward,0.0
 985,Nyalenda B Ward,0.0
 986,Market Milimani Ward,0.0
-987,Railways Ward,3.0
+987,Railways Ward,0.0
 988,Nyalenda B Ward,0.0
 989,Railways Ward,0.0
-990,Market Milimani Ward,141.0
+990,Market Milimani Ward,121.0
 991,Railways Ward,0.0
 992,Railways Ward,0.0
 993,Railways Ward,0.0
-994,Shauri Moyo Kaloleni Ward,50.0
+994,Shauri Moyo Kaloleni Ward,45.0
 995,Kondele Ward,0.0
 996,Market Milimani Ward,0.0
 997,Market Milimani Ward,0.0
@@ -1012,7 +1012,7 @@
 1010,Kajulu Ward,0.0
 1011,Kolwa Central Ward,0.0
 1012,Kajulu Ward,0.0
-1013,Kajulu Ward,102.0
+1013,Kajulu Ward,0.0
 1014,Kolwa Central Ward,0.0
 1015,Kolwa East Ward,0.0
 1016,Nyalenda A Ward,0.0
@@ -1026,8 +1026,8 @@
 1024,Kolwa East Ward,0.0
 1025,Kajulu Ward,0.0
 1026,Kajulu Ward,0.0
-1027,Kolwa East Ward,50.0
-1028,Kajulu Ward,31.0
+1027,Kolwa East Ward,30.0
+1028,Kajulu Ward,65.0
 1029,Kolwa Central Ward,0.0
 1030,Kolwa Central Ward,0.0
 1031,Kolwa Central Ward,0.0
@@ -1038,7 +1038,7 @@
 1036,Kisumu North Ward,0.0
 1037,Kisumu North Ward,0.0
 1038,Central Kisumu Ward,0.0
-1039,North West Kisumu Ward,50.0
+1039,North West Kisumu Ward,25.0
 1040,Kisumu North Ward,0.0
 1041,Kisumu North Ward,0.0
 1042,Kisumu North Ward,0.0
@@ -1050,21 +1050,21 @@
 1048,North West Kisumu Ward,0.0
 1049,West Kisumu Ward,0.0
 1050,West Kisumu Ward,0.0
-1051,North West Kisumu Ward,47.0
-1052,North West Kisumu Ward,163.0
+1051,North West Kisumu Ward,31.0
+1052,North West Kisumu Ward,49.0
 1053,North West Kisumu Ward,0.0
 1054,North West Kisumu Ward,0.0
 1055,North West Kisumu Ward,0.0
-1056,Kisumu North Ward,37.0
+1056,Kisumu North Ward,0.0
 1057,South West Kisumu Ward,0.0
 1058,South West Kisumu Ward,0.0
 1059,West Kisumu Ward,0.0
-1060,Central Kisumu Ward,267.0
+1060,Central Kisumu Ward,58.0
 1061,West Kisumu Ward,0.0
 1062,South West Kisumu Ward,0.0
 1063,North West Kisumu Ward,0.0
 1064,Kisumu North Ward,0.0
-1065,Central Kisumu Ward,246.0
+1065,Central Kisumu Ward,0.0
 1066,Central Kisumu Ward,0.0
 1067,North West Kisumu Ward,0.0
 1068,Central Kisumu Ward,0.0
@@ -1085,7 +1085,7 @@
 1083,Karen Ward,0.0
 1084,Mugumo-ini Ward,0.0
 1085,Karen Ward,0.0
-1086,Nairobi West Ward,19.0
+1086,Nairobi West Ward,0.0
 1087,Karen Ward,0.0
 1088,Nairobi West Ward,0.0
 1089,South C Ward,0.0
@@ -1100,16 +1100,16 @@
 1098,Mugumo-ini Ward,0.0
 1099,Mugumo-ini Ward,0.0
 1100,Mugumo-ini Ward,0.0
-1101,Mugumo-ini Ward,73.0
+1101,Mugumo-ini Ward,74.0
 1102,Mugumo-ini Ward,0.0
 1103,Nairobi West Ward,0.0
 1104,Karen Ward,0.0
 1105,Karen Ward,0.0
 1106,Mugumo-ini Ward,0.0
-1107,Nairobi West Ward,0.0
+1107,Nairobi West Ward,62.0
 1108,Nyayo Highrise Ward,0.0
 1109,Karen Ward,0.0
-1110,South C Ward,0.0
+1110,South C Ward,40.0
 1111,Nairobi West Ward,0.0
 1112,Nairobi West Ward,0.0
 1113,Nairobi West Ward,0.0
@@ -1137,7 +1137,7 @@
 1135,Mugumo-ini Ward,0.0
 1136,Mugumo-ini Ward,0.0
 1137,Karen Ward,0.0
-1138,Mugumo-ini Ward,0.0
+1138,Mugumo-ini Ward,613.0
 1139,Karen Ward,0.0
 1140,Nairobi West Ward,0.0
 1141,Karen Ward,0.0
@@ -1174,7 +1174,7 @@
 1172,Timbwani Ward,0.0
 1173,Timbwani Ward,0.0
 1174,Timbwani Ward,0.0
-1175,Timbwani Ward,20.0
+1175,Timbwani Ward,0.0
 1176,Likoni Ward,0.0
 1177,Timbwani Ward,0.0
 1178,Timbwani Ward,0.0
@@ -1182,7 +1182,7 @@
 1180,Mtongwe Ward,0.0
 1181,Mtongwe Ward,0.0
 1182,Bofu Ward,0.0
-1183,Timbwani Ward,202.0
+1183,Timbwani Ward,0.0
 1184,Mtongwe Ward,0.0
 1185,Timbwani Ward,0.0
 1186,Mtongwe Ward,0.0
@@ -1246,9 +1246,9 @@
 1244,Machakos Central Ward,0.0
 1245,Muvuti/Kiima-kimwe Ward,0.0
 1246,Machakos Central Ward,0.0
-1247,Machakos Central Ward,256.0
+1247,Machakos Central Ward,103.0
 1248,Machakos Central Ward,0.0
-1249,Machakos Central Ward,96.0
+1249,Machakos Central Ward,0.0
 1250,Machakos Central Ward,0.0
 1251,Machakos Central Ward,0.0
 1252,Mua Ward,0.0
@@ -1273,7 +1273,7 @@
 1271,Machakos Central Ward,0.0
 1272,Machakos Central Ward,0.0
 1273,Muvuti/Kiima-kimwe Ward,0.0
-1274,Machakos Central Ward,3690.0
+1274,Machakos Central Ward,3273.0
 1275,Machakos Central Ward,0.0
 1276,Machakos Central Ward,0.0
 1277,Muvuti/Kiima-kimwe Ward,0.0
@@ -1292,7 +1292,7 @@
 1290,Machakos Central Ward,0.0
 1291,Mumbuni North Ward,0.0
 1292,Machakos Central Ward,0.0
-1293,Machakos Central Ward,704.0
+1293,Machakos Central Ward,0.0
 1294,Mumbuni North Ward,0.0
 1295,Machakos Central Ward,0.0
 1296,Machakos Central Ward,0.0
@@ -1322,7 +1322,7 @@
 1320,Maringo/Hamza Ward,0.0
 1321,Harambee Ward,0.0
 1322,Maringo/Hamza Ward,0.0
-1323,Harambee Ward,0.0
+1323,Harambee Ward,23.0
 1324,Harambee Ward,0.0
 1325,Maringo/Hamza Ward,0.0
 1326,Maringo/Hamza Ward,0.0
@@ -1336,7 +1336,7 @@
 1334,Maringo/Hamza Ward,0.0
 1335,Makongeni Ward,0.0
 1336,Maringo/Hamza Ward,0.0
-1337,Maringo/Hamza Ward,89.0
+1337,Maringo/Hamza Ward,0.0
 1338,Makongeni Ward,0.0
 1339,Viwandani Ward,0.0
 1340,Harambee Ward,0.0
@@ -1426,7 +1426,7 @@
 1424,Tala Ward,0.0
 1425,Tala Ward,0.0
 1426,Matungulu North Ward,0.0
-1427,Matungulu North Ward,5.0
+1427,Matungulu North Ward,0.0
 1428,Tala Ward,0.0
 1429,Tala Ward,0.0
 1430,Tala Ward,0.0
@@ -1495,7 +1495,7 @@
 1493,Masogo/Nyang'oma Ward,0.0
 1494,Miwani Ward,0.0
 1495,Muhoroni Koru Ward,0.0
-1496,Muhoroni Koru Ward,96.0
+1496,Muhoroni Koru Ward,129.0
 1497,Muhoroni Koru Ward,0.0
 1498,Miwani Ward,0.0
 1499,Masogo/Nyang'oma Ward,0.0
@@ -1510,12 +1510,12 @@
 1508,Chemelil Ward,0.0
 1509,Masogo/Nyang'oma Ward,0.0
 1510,Chemelil Ward,0.0
-1511,Shimanzi/Ganjoni Ward,0.0
+1511,Shimanzi/Ganjoni Ward,9.0
 1512,Tudor Ward,0.0
 1513,Shimanzi/Ganjoni Ward,0.0
 1514,Majengo Ward,0.0
-1515,Tononoka Ward,131.0
-1516,Tononoka Ward,9.0
+1515,Tononoka Ward,73.0
+1516,Tononoka Ward,0.0
 1517,Majengo Ward,0.0
 1518,Mji Wa Kale/Makadara Ward,0.0
 1519,Tononoka Ward,0.0
@@ -1535,7 +1535,7 @@
 1533,Tononoka Ward,0.0
 1534,Tudor Ward,0.0
 1535,Tononoka Ward,0.0
-1536,Tononoka Ward,2535.0
+1536,Tononoka Ward,0.0
 1537,Shimanzi/Ganjoni Ward,0.0
 1538,Shimanzi/Ganjoni Ward,0.0
 1539,Shimanzi/Ganjoni Ward,0.0
@@ -1546,7 +1546,7 @@
 1544,Shimanzi/Ganjoni Ward,0.0
 1545,Majengo Ward,0.0
 1546,Mji Wa Kale/Makadara Ward,0.0
-1547,Shimanzi/Ganjoni Ward,6.0
+1547,Shimanzi/Ganjoni Ward,0.0
 1548,Shimanzi/Ganjoni Ward,0.0
 1549,Mji Wa Kale/Makadara Ward,0.0
 1550,Mji Wa Kale/Makadara Ward,0.0
@@ -1575,9 +1575,9 @@
 1573,Majengo Ward,0.0
 1574,Tononoka Ward,0.0
 1575,Shimanzi/Ganjoni Ward,0.0
-1576,Majengo Ward,548.0
+1576,Majengo Ward,715.0
 1577,Shimanzi/Ganjoni Ward,0.0
-1578,Mji Wa Kale/Makadara Ward,83.0
+1578,Mji Wa Kale/Makadara Ward,129.0
 1579,Mji Wa Kale/Makadara Ward,0.0
 1580,Majengo Ward,0.0
 1581,Majengo Ward,0.0
@@ -1585,15 +1585,15 @@
 1583,Shimanzi/Ganjoni Ward,0.0
 1584,Mji Wa Kale/Makadara Ward,0.0
 1585,Mji Wa Kale/Makadara Ward,0.0
-1586,Shimanzi/Ganjoni Ward,144.0
+1586,Shimanzi/Ganjoni Ward,36.0
 1587,Shimanzi/Ganjoni Ward,0.0
 1588,Shimanzi/Ganjoni Ward,0.0
 1589,Mji Wa Kale/Makadara Ward,0.0
 1590,Tononoka Ward,0.0
 1591,Majengo Ward,0.0
-1592,Tononoka Ward,17.0
-1593,Tononoka Ward,0.0
-1594,Shimanzi/Ganjoni Ward,31.0
+1592,Tononoka Ward,0.0
+1593,Tononoka Ward,4.0
+1594,Shimanzi/Ganjoni Ward,5.0
 1595,Mji Wa Kale/Makadara Ward,0.0
 1596,Shimanzi/Ganjoni Ward,0.0
 1597,Tudor Ward,0.0
@@ -1604,7 +1604,7 @@
 1602,Tononoka Ward,0.0
 1603,Tononoka Ward,0.0
 1604,Tononoka Ward,0.0
-1605,Tudor Ward,3.0
+1605,Tudor Ward,0.0
 1606,Tudor Ward,0.0
 1607,Shimanzi/Ganjoni Ward,0.0
 1608,Mbiuni Ward,0.0
@@ -1637,7 +1637,7 @@
 1635,Muthetheni Ward,0.0
 1636,Muthetheni Ward,0.0
 1637,Masii Ward,0.0
-1638,Makutano/Mwala Ward,30.0
+1638,Makutano/Mwala Ward,0.0
 1639,Makutano/Mwala Ward,0.0
 1640,Makutano/Mwala Ward,0.0
 1641,Kibauni Ward,0.0
@@ -1673,10 +1673,10 @@
 1671,West Nyakach Ward,0.0
 1672,North Nyakach Ward,0.0
 1673,Central Nyakach Ward,0.0
-1674,South East Nyakach Ward,350.0
+1674,South East Nyakach Ward,513.0
 1675,South East Nyakach Ward,0.0
 1676,South West Nyakach Ward,0.0
-1677,Central Nyakach Ward,290.0
+1677,Central Nyakach Ward,372.0
 1678,South West Nyakach Ward,0.0
 1679,South West Nyakach Ward,0.0
 1680,North Nyakach Ward,0.0
@@ -1737,7 +1737,7 @@
 1735,Ziwa La Ng'ombe Ward,0.0
 1736,Kadzandani Ward,0.0
 1737,Frere Town Ward,0.0
-1738,Frere Town Ward,0.0
+1738,Frere Town Ward,54.0
 1739,Mkomani Ward,0.0
 1740,Frere Town Ward,0.0
 1741,Kongowea Ward,0.0
@@ -1750,9 +1750,9 @@
 1748,Ziwa La Ng'ombe Ward,0.0
 1749,Ziwa La Ng'ombe Ward,0.0
 1750,Kobura Ward,0.0
-1751,Ahero Ward,317.0
-1752,Awasi/Onjiko Ward,0.0
-1753,Awasi/Onjiko Ward,4.0
+1751,Ahero Ward,270.0
+1752,Awasi/Onjiko Ward,2.0
+1753,Awasi/Onjiko Ward,13.0
 1754,Ahero Ward,0.0
 1755,Ahero Ward,0.0
 1756,Awasi/Onjiko Ward,0.0
@@ -1775,7 +1775,7 @@
 1773,East Kano/Wawidhi Ward,0.0
 1774,Awasi/Onjiko Ward,0.0
 1775,Ahero Ward,0.0
-1776,Kobura Ward,4.0
+1776,Kobura Ward,40.0
 1777,Awasi/Onjiko Ward,0.0
 1778,Ahero Ward,0.0
 1779,Kobura Ward,0.0
@@ -1850,7 +1850,7 @@
 1848,Roysambu Ward,0.0
 1849,Githurai Ward,0.0
 1850,Githurai Ward,0.0
-1851,Githurai Ward,162.0
+1851,Githurai Ward,8.0
 1852,Kahawa West Ward,0.0
 1853,Zimmerman Ward,0.0
 1854,Githurai Ward,0.0
@@ -1884,7 +1884,7 @@
 1882,Korogocho Ward,0.0
 1883,Korogocho Ward,0.0
 1884,Utalii Ward,0.0
-1885,Mathare North Ward,118.0
+1885,Mathare North Ward,72.0
 1886,Mathare North Ward,0.0
 1887,Lucky Summer Ward,0.0
 1888,Korogocho Ward,0.0
@@ -1909,13 +1909,13 @@
 1907,Mathare North Ward,0.0
 1908,Mathare North Ward,0.0
 1909,Babandogo Ward,0.0
-1910,Babandogo Ward,220.0
+1910,Babandogo Ward,0.0
 1911,Lucky Summer Ward,0.0
 1912,Babandogo Ward,0.0
 1913,Utalii Ward,0.0
 1914,Lucky Summer Ward,0.0
 1915,Utalii Ward,0.0
-1916,Utalii Ward,5.0
+1916,Utalii Ward,0.0
 1917,Korogocho Ward,0.0
 1918,West Seme Ward,0.0
 1919,West Seme Ward,0.0
@@ -1925,7 +1925,7 @@
 1923,North Seme Ward,0.0
 1924,Central Seme Ward,0.0
 1925,Central Seme Ward,0.0
-1926,Central Seme Ward,245.0
+1926,Central Seme Ward,351.0
 1927,North Seme Ward,0.0
 1928,East Seme Ward,0.0
 1929,East Seme Ward,0.0
@@ -2076,7 +2076,7 @@
 2074,Kalokol Ward,0.0
 2075,Kalokol Ward,0.0
 2076,Kanamkemer Ward,0.0
-2077,Kanamkemer Ward,0.0
+2077,Kanamkemer Ward,8.0
 2078,Kang'atotha Ward,0.0
 2079,Kang'atotha Ward,0.0
 2080,Kerio Delta Ward,0.0
@@ -2086,12 +2086,12 @@
 2084,Lodwar Township Ward,0.0
 2085,Lodwar Township Ward,0.0
 2086,Kang'atotha Ward,0.0
-2087,Kerio Delta Ward,0.0
+2087,Kerio Delta Ward,19.0
 2088,Lodwar Township Ward,0.0
 2089,Kerio Delta Ward,0.0
 2090,Kang'atotha Ward,0.0
 2091,Kerio Delta Ward,0.0
-2092,Lodwar Township Ward,844.0
+2092,Lodwar Township Ward,1591.0
 2093,Lodwar Township Ward,0.0
 2094,Lodwar Township Ward,0.0
 2095,Kanamkemer Ward,0.0
@@ -2182,7 +2182,7 @@
 2180,Kaputir Ward,0.0
 2181,Kaputir Ward,0.0
 2182,Lokichar Ward,0.0
-2183,Katilu Ward,11.0
+2183,Katilu Ward,7.0
 2184,Kalapata Ward,0.0
 2185,Lokichar Ward,0.0
 2186,Katilu Ward,0.0
@@ -2218,13 +2218,13 @@
 2216,Kakuma Ward,0.0
 2217,Kakuma Ward,0.0
 2218,Lokichoggio Ward,0.0
-2219,Kakuma Ward,208.0
+2219,Kakuma Ward,713.0
 2220,Lokichoggio Ward,0.0
 2221,Letea Ward,0.0
 2222,Nakalale Ward,0.0
 2223,Kakuma Ward,0.0
 2224,Kakuma Ward,0.0
-2225,Kakuma Ward,28.0
+2225,Kakuma Ward,143.0
 2226,Kalobeyei Ward,0.0
 2227,Lopur Ward,0.0
 2228,Lokichoggio Ward,0.0
@@ -2242,7 +2242,7 @@
 2240,Lokichoggio Ward,0.0
 2241,Kalobeyei Ward,0.0
 2242,Kalobeyei Ward,0.0
-2243,Nanaam Ward,24.0
+2243,Nanaam Ward,22.0
 2244,Lopur Ward,0.0
 2245,Lopur Ward,0.0
 2246,Letea Ward,0.0
@@ -2282,7 +2282,7 @@
 2280,Lokichoggio Ward,0.0
 2281,Parklands/Highridge Ward,0.0
 2282,Kangemi Ward,0.0
-2283,Parklands/Highridge Ward,0.0
+2283,Parklands/Highridge Ward,218.0
 2284,Parklands/Highridge Ward,0.0
 2285,Mountain View Ward,0.0
 2286,Parklands/Highridge Ward,0.0
@@ -2301,7 +2301,7 @@
 2299,Parklands/Highridge Ward,0.0
 2300,Parklands/Highridge Ward,0.0
 2301,Parklands/Highridge Ward,0.0
-2302,Kangemi Ward,1.0
+2302,Kangemi Ward,0.0
 2303,Parklands/Highridge Ward,0.0
 2304,Parklands/Highridge Ward,0.0
 2305,Mountain View Ward,0.0
@@ -2400,7 +2400,7 @@
 2398,Ndalani Ward,0.0
 2399,Katangi Ward,0.0
 2400,Matuu Ward,0.0
-2401,Matuu Ward,0.0
+2401,Matuu Ward,33.0
 2402,Matuu Ward,0.0
 2403,Ndalani Ward,0.0
 2404,Ndalani Ward,0.0
