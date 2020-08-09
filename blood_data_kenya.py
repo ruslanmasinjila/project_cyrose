@@ -85,20 +85,6 @@ supply_2019["supply"] = supply_data2019["supply"]
 
 ##########################################################################################
 
-print(supply_2015.head())
-print(supply_2016.head())
-print(supply_2017.head())
-print(supply_2018.head())
-print(supply_2019.head())
-
-supply_2015.to_csv("supply_2015.csv")
-supply_2016.to_csv("supply_2016.csv")
-supply_2017.to_csv("supply_2017.csv")
-supply_2018.to_csv("supply_2018.csv")
-supply_2019.to_csv("supply_2019.csv")
-
-##########################################################################################
-
 aggregate_supply = pd.DataFrame()
 aggregate_supply["orgunitlevel4"]=data["orgunitlevel4"]
 aggregate_supply["2015"]=supply_2015["supply"]
@@ -114,7 +100,17 @@ aggregate_supply=aggregate_supply.groupby(['orgunitlevel4']).sum()
 # Remove all rows with zeroes
 aggregate_supply=aggregate_supply.loc[(aggregate_supply!=0).any(axis=1)]
 
-print(aggregate_supply)
+aggregate_supply.to_csv("supply_2015_2019_zeroes.csv")
+
+
+# If the value is zero, replace it with the mean of the row
+aggregate_supply['2015'] = aggregate_supply[['2015','2016','2017','2018']].mean(axis=1).where(aggregate_supply['2015'] == 0,aggregate_supply['2015'] )
+aggregate_supply['2016'] = aggregate_supply[['2015','2016','2017','2018']].mean(axis=1).where(aggregate_supply['2016'] == 0,aggregate_supply['2016'] )
+aggregate_supply['2017'] = aggregate_supply[['2015','2016','2017','2018']].mean(axis=1).where(aggregate_supply['2017'] == 0,aggregate_supply['2017'] )
+aggregate_supply['2018'] = aggregate_supply[['2015','2016','2017','2018']].mean(axis=1).where(aggregate_supply['2018'] == 0,aggregate_supply['2018'] )
+aggregate_supply['2019'] = aggregate_supply[['2015','2016','2017','2018']].mean(axis=1).where(aggregate_supply['2019'] == 0,aggregate_supply['2019'] )
+
+
 aggregate_supply.to_csv("supply_2015_2019.csv")
 ###########################################################################################
 
